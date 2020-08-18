@@ -20,5 +20,7 @@ All additions to unscii (either by myself or taken from [funscii](https://github
 The effort was focused on the 8×8 variant of unscii; not many `extra-*` characters have 8×16 variants implemented.
 As well as a few fixes to mistakes in unscii.
 
-Running `upd.sh` will generate `unscii-8.hex` and `unscii-8.bdf`; then running `./chars` or `./compact.sh` will print the current set of supported characters.
+Running `upd.sh` will generate `unscii-8.hex` and `unscii-8.bdf`; then running `./chars` or `./compact.sh` will print the current set of supported characters; the output of the which has been reproduced below: 
+
+![](compact.png)
 
