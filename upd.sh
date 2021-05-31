@@ -2,6 +2,7 @@
 set -e
 ./assemble.pl
 ./hex2bdf.pl --rows 8 < unscii-8.hex > unscii-8.bdf
+mv $(~/tank/opentype-bitmap.py unscii-8.bdf) unscii-8.otb
 #cp unscii-8.bdf unscii-9.bdf
 #sed -i \
 #	-e 's/^FONT_ASCENT 8$/FONT_ASCENT 9/' \
