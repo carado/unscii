@@ -190,6 +190,7 @@ INCLUDE extra-misaki.txt
 	included first so as to be overridden --carado
 
 INCLUDE extra-arrows.txt
+INCLUDE extra-arrows-2.txt
 INCLUDE extra-math.txt
 INCLUDE extra-math-2.txt
 INCLUDE extra-pictures.txt
