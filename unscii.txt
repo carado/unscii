@@ -206,6 +206,7 @@ INCLUDE extra-runes.txt
 INCLUDE extra-misc.txt
 INCLUDE extra-bit9.txt
 INCLUDE extra-greek.txt
+INCLUDE extra-diacritics.txt
 
 =========================== Other files ===================================
 
